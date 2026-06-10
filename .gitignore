@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+api/__pycache__/
+api/test/__pycache__/
+.vscode/
